@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://enaverse.github.io/faq/ena/</loc>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/goals/fisheries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/databases/pangea/</loc>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/communities/seelab-uncw/</loc>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/analyses/enar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/faq/enaverse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/analyses/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/communities/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/databases/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/faq/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/goals/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://enaverse.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
